@@ -1,0 +1,22 @@
+{
+  "name": "angular-resourceful",
+  "dependencies": {
+    "angular": "~1.0.7",
+    "angular-resource": "~1.0.7"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.0.7",
+    "angular-scenario": "~1.0.7"
+  },
+  "homepage": "https://github.com/vldc/angular-resourceful",
+  "_release": "3afdf018d6",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "3afdf018d6df3ba8271eb94f56ef4c5f86987e92"
+  },
+  "_source": "git://github.com/vldc/angular-resourceful.git",
+  "_target": "*",
+  "_originalSource": "angular-resourceful",
+  "_direct": true
+}

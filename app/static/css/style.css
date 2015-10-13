@@ -1,0 +1,34 @@
+/* styles for source_query application */
+
+#flash_messages{
+	position: absolute;
+	top: 2em;
+	left: 3em;
+	width: 30em;
+	background-color: pink;
+}
+
+#flash_messages ul {
+	list-style: none;
+}
+
+#flash_messages_close {
+	position: absolute;
+	height: 1em;
+	right: 2px;
+	top: 2px;
+}
+
+.brand img {
+	height: 1em;
+}
+
+.field_error_highlight {
+    border: 2px solid red !important;
+}
+
+.follower{
+    float: left;
+    width: 25em;
+    height: 5em;
+}
